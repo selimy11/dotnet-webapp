@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/96e98080-e35c-4963-a6e8-9748d470c233/resourceGroups/peternguyen/providers/Microsoft.Web/sites/datacrunch-dotnet-webapp"
+}
